@@ -499,7 +499,7 @@ class UserTypeSelectionScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 30),
                   Text(
-                    "Welcome to ShopEasy",
+                    "Welcome to Shophard",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 32,
